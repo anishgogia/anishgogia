@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anishgogia
 - 👀 I’m interested in cloud technologies and full stack development.
-- 🌱 I’m currently learning AWS and web development.
+- 🌱 I’m currently learning azure and web development.
 - 💞️ I’m looking to collaborate on microservices based application development.
 - 📫 
 
